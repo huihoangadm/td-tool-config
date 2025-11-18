@@ -1,1 +1,5 @@
-{ “password”: “changeme123”, “status”: “active”, “msg”: “Password OK” }
+{
+  "password": "123456",
+  "version": "1.0",
+  "status": "active"
+}
